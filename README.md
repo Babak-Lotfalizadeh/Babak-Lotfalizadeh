@@ -4,7 +4,7 @@ Senior Mobile Developer (Flutter & Native) with 10+ years of experience building
 
 I focus on shipping performant, maintainable apps with clean architecture, strong testing, and smooth UX.
 
----
+
 
 ## About me
 
@@ -14,7 +14,7 @@ I focus on shipping performant, maintainable apps with clean architecture, stron
 - Comfortable working in remote, cross-functional teams using Agile/Scrum, CI/CD, and code review–driven workflows.  
 - Based in Oeiras (Lisbon area), originally from Iran, open to interesting opportunities and collaborations.
 
----
+
 
 ## Tech stack
 
@@ -24,7 +24,7 @@ I focus on shipping performant, maintainable apps with clean architecture, stron
 - **Backend & tooling:** REST APIs, WebSockets, Firebase, Git, CI/CD pipelines  
 - **Other languages:** JavaScript, C++, Python (for tooling and scripting)
 
----
+
 
 ## Experience
 
