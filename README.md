@@ -26,37 +26,45 @@ I focus on shipping performant, maintainable apps with clean architecture, stron
 
 ---
 
-## Selected experience
+## Experience
 
-- **European Broadcasting Union (EBU) – Senior Flutter Developer**  
-  Building and maintaining Flutter applications for large-scale media products, integrating internal systems, and improving data flow and performance.
-
-- **Floward – Senior Flutter Developer**  
-  Created and maintained Flutter modules, led migration from native code to Flutter, and wrote highly testable code with very high coverage.
-
-- **Cross-platform teams – Senior Flutter & Mobile Developer**  
-  Built multiple apps from scratch, integrated many APIs, and helped reduce development time and increase software quality using Scrum and solid engineering practices.
+**Flutter Developer – European Broadcasting Union (EBU)**  
+*Jun 2023 – Present · Remote*  
+Designing and implementing production-grade Flutter features for large-scale media applications used by international broadcasters. Owning end-to-end delivery from architecture and state management to testing and release, while collaborating in a Scrum team with designers, backend engineers, and stakeholders. Consistently improving performance, stability, and developer experience through clean code, refactoring, and automation.
 
 ---
 
-## Projects on GitHub
-
-- `messanger` – A simple Flutter messenger app demonstrating chat flows, state management, and clean project structure.  
-- `social-media` – A social media–style Flutter app exploring feeds, profiles, and real-time-like interactions.
-
-I use my public repos to experiment with architectures, patterns, and tooling that I later apply in production environments.
+**Flutter Developer – SKIMS (Contract)**  
+*Jan 2024 – Jul 2024 · Remote, Türkiye*  
+Developed and enhanced Flutter app features for an e‑commerce / retail environment with a strong focus on smooth animations and polished user experiences. Worked closely with product and design to rapidly iterate on UI, optimize app responsiveness, and ensure a stable release process under tight timelines.
 
 ---
 
-## What I’m looking for
-
-- Senior or lead roles in Flutter/mobile where code quality, testing, and UX matter  
-- Opportunities to modernize legacy apps, migrate to Flutter, or design new mobile products from the ground up  
-- Teams that value autonomy, clean code, and collaboration across product, design, and backend
+**Senior Flutter Engineer – Floward (Contract)**  
+*Aug 2022 – May 2023 · Remote, Riyadh, Saudi Arabia*  
+Led key areas of a high-traffic Flutter application for a fast-growing gifting platform. Drove improvements in app architecture, testing, and performance, and mentored developers on best practices in Flutter, state management, and code quality. Helped reduce bugs and accelerate feature delivery in a distributed, Agile team.
 
 ---
 
-## How to reach me
+**Software Developer – Geeks Ltd**  
+*Aug 2021 – Dec 2022 · Remote, Greater London, UK*  
+Worked on complex software projects for UK clients, building and maintaining mobile solutions with Android and related technologies. Collaborated in cross-functional teams to deliver reliable, testable, and maintainable code, and contributed to improving internal engineering practices and processes.
 
-- LinkedIn: [linkedin.com/in/babak-lotfalizadeh](https://www.linkedin.com/in/babak-lotfalizadeh)  
-- Location: Oeiras, Lisbon, Portugal
+---
+
+**Flutter Developer – Raimun**  
+*Sep 2020 – Aug 2021 · Remote, Isfahan, Iran*  
+Built and maintained Flutter applications from the ground up, applying Material Design guidelines and modern mobile UX patterns. Took ownership of features across the full lifecycle: planning, implementation, testing, and release.
+
+---
+
+**Mobile Developer – Tahlilgaran Hooshmand Ariya System**  
+*Mar 2018 – Aug 2020 · On-site, Isfahan Province, Iran*  
+Developed Android applications using Kotlin and Java for production environments. Collaborated with product and design teams to translate requirements into robust, user-friendly mobile features and supported apps through multiple releases.
+
+---
+
+**Mobile Software Developer – Freelance**  
+*Jan 2012 – Jan 2018 · Isfahan Province, Iran*  
+Delivered custom Android applications for various clients, handling everything from requirements gathering and UI/UX design to development, deployment, and maintenance. Built a broad skill set across mobile development, visual design, and client communication.
+
